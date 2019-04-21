@@ -1,0 +1,4 @@
+.DS_Store
+.idea
+/app/nginx
+/app/www/symfony
